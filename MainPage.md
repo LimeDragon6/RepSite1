@@ -1,7 +1,7 @@
 # One hashtag for title
 ## Subheading for each other hasktag, two for subheading two, three for subheading three, etc
 
-Input code there:
+Input code with ```:
 
 ```
 for(int i = 0; i < 6; i++){
