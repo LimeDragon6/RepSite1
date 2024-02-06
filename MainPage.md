@@ -4,7 +4,9 @@
 Input code there:
 
 ...
-System.out.println("The ... creates an area for code input ...");
+for(int i = 0; i < 6; i++){
+System.out.println(6)
+}
 ...
 ### Text Options
 
