@@ -3,11 +3,12 @@
 
 Input code there:
 
-...
+```
 for(int i = 0; i < 6; i++){
 System.out.println(6)
 }
-...
+```
+
 ### Text Options
 
 One star = *Tilt*
